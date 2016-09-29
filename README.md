@@ -2,7 +2,7 @@
 
 Download nameGuesser.py 
 
-on the terminal, run the following command
+on the terminal after you go to the directory with nameGuesser.py, run the following command
 
 ```sh
 $ python nameGuesser.py
